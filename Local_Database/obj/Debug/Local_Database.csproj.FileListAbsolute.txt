@@ -1,0 +1,48 @@
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\bin\Debug\Ogrenciler.mdf
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\bin\Debug\Ogrenciler_log.ldf
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\bin\Debug\Local_Database.exe.config
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\bin\Debug\Local_Database.exe
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\bin\Debug\Local_Database.pdb
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\obj\Debug\Local_Database.csprojAssemblyReference.cache
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\obj\Debug\Local_Database.Giris_Form.resources
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\obj\Debug\Local_Database.Kayitlar.resources
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\obj\Debug\Local_Database.Properties.Resources.resources
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\obj\Debug\Local_Database.csproj.GenerateResource.cache
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\obj\Debug\Local_Database.csproj.CoreCompileInputs.cache
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\obj\Debug\Local_Database.exe
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\obj\Debug\Local_Database.pdb
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\bin\Debug\EntityFramework.dll
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\bin\Debug\EntityFramework.xml
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SeFiK\source\repos\Local_Database\Local_Database\obj\Debug\Local_Database.csproj.CopyComplete
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\Ogrenciler.mdf
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\Ogrenciler_log.ldf
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\Local_Database.exe.config
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\Local_Database.exe
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\Local_Database.pdb
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\EntityFramework.dll
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\EntityFramework.xml
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.csprojAssemblyReference.cache
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.Giris_Form.resources
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.Kayitlar.resources
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.Properties.Resources.resources
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.csproj.GenerateResource.cache
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.csproj.CoreCompileInputs.cache
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.csproj.CopyComplete
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.exe
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.pdb
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\Local_Database.exe.manifest
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\bin\Debug\Local_Database.application
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.exe.manifest
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Local_Database\Local_Database\obj\Debug\Local_Database.application
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Local_Database\Local_Database\obj\Debug\Local_Database.csproj.AssemblyReference.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Local_Database\Local_Database\obj\Debug\Local_Database.Giris_Form.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Local_Database\Local_Database\obj\Debug\Local_Database.Kayitlar.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Local_Database\Local_Database\obj\Debug\Local_Database.Properties.Resources.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Local_Database\Local_Database\obj\Debug\Local_Database.csproj.GenerateResource.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Local_Database\Local_Database\obj\Debug\Local_Database.csproj.CoreCompileInputs.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Local_Database\Local_Database\obj\Debug\Local_Database.exe
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Local_Database\Local_Database\obj\Debug\Local_Database.pdb

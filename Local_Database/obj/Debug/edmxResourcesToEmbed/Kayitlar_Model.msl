@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OgrencilerModelStoreContainer" CdmEntityContainer="OgrencilerEntities">
+    <EntitySetMapping Name="Kullanicilars">
+      <EntityTypeMapping TypeName="OgrencilerModel.Kullanicilar">
+        <MappingFragment StoreEntitySet="Kullanicilar">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="K_Ad" ColumnName="K_Ad" />
+          <ScalarProperty Name="K_Sifre" ColumnName="K_Sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ogrencis">
+      <EntityTypeMapping TypeName="OgrencilerModel.Ogrenci">
+        <MappingFragment StoreEntitySet="Ogrenci">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ogrenci_Ad" ColumnName="Ogrenci_Ad" />
+          <ScalarProperty Name="Ogrenci_Soyad" ColumnName="Ogrenci_Soyad" />
+          <ScalarProperty Name="Ogrenci_Numara" ColumnName="Ogrenci_Numara" />
+          <ScalarProperty Name="Not1" ColumnName="Not1" />
+          <ScalarProperty Name="Not2" ColumnName="Not2" />
+          <ScalarProperty Name="Not3" ColumnName="Not3" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Islemlers">
+      <EntityTypeMapping TypeName="OgrencilerModel.Islemler">
+        <MappingFragment StoreEntitySet="Islemler">
+          <ScalarProperty Name="Yapilan_Islem" ColumnName="Yapilan_Islem" />
+          <ScalarProperty Name="İslem_Tarihi" ColumnName="İslem_Tarihi" />
+          <ScalarProperty Name="Ogrenci_Id" ColumnName="Ogrenci_Id" />
+          <ScalarProperty Name="Kullanici_Id" ColumnName="Kullanici_Id" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
